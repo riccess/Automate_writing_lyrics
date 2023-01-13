@@ -1,1 +1,1 @@
-# Automate_writing_lyrics.
+# 작사 자동화 프로그램 만들기.
